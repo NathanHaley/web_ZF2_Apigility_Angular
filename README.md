@@ -3,8 +3,10 @@ Web_ZF2_Apigility_Angular
 
 Project meant to serve as base for projects based on Zend framework, Apigility, and Angular.
 
-Main Components - What is included basically, you don't need to install.
+Main Components
 ------------
+What is included basically, you don't need to install.
+
 ZF2 Skeleton Application:
 https://github.com/zendframework/ZendSkeletonApplication
 

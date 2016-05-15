@@ -38,6 +38,11 @@ Install composer if not already installed.
 curl -sS https://getcomposer.org/installer | php
 ```
 
+Install packages/modules
+```
+php composer.phar install
+```
+
 Create config/autoload/local.php from dist file.
 ```
 cp config/autoload/local.php.dist  config/autoload/local.php
